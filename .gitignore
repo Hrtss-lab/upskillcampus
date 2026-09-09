@@ -1,0 +1,14 @@
+# Environment variables (contains DB credentials)
+backend/.env
+
+# Python
+backend/venv/
+backend/__pycache__/
+*.pyc
+
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+
+# Uploaded images (optional - see note below)
+backend/uploads/
